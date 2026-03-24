@@ -1,5 +1,23 @@
 # Tech App - Home Services Platform
 
+## Screenshots
+
+### Mobile App Interface
+![Registration & Authentication](screenshots/servex%201.png)
+![User Profile & Onboarding](screenshots/servex%201.1.png)
+![Service Categories & Navigation](screenshots/servex%201.2.png)
+
+### Service Management
+![Technician Services Dashboard](screenshots/servex%202.png)
+![Booking Management](screenshots/servex%203.png)
+![Service Details & Configuration](screenshots/servex%204.png)
+
+### Advanced Features
+![Real-time Chat & Communication](screenshots/servex%205.png)
+![Location Services & Mapping](screenshots/servex%206.png)
+![Payment Processing & Wallet](screenshots/servex%207.png)
+![Analytics & Performance Metrics](screenshots/servex%208.png)
+
 ## Architecture
 
 - **Mobile App**: Flutter (single binary, role-based access)
